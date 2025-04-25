@@ -1,0 +1,24 @@
+{
+    "name": "Nite",
+    "symbol": "NITE",
+    "description": "$NITE – The Future of Solnite. \nPowering the in-game economy, rewards & governance.\nSolnite.com",
+    "image": "https://app.solnite.com/nite.png",
+    "twitter": "https://x.com/SolniteGame",
+    "website": "https://www.solnite.com",
+    "telegram": "https://t.me/solnitegame",
+    "links": {
+      "twitter": "https://x.com/SolniteGame",
+      "website": "https://www.solnite.com",
+      "telegram": "https://t.me/solnitegame"
+    },
+    "extensions": {
+      "twitter": "https://x.com/SolniteGame",
+      "website": "https://www.solnite.com",
+      "telegram": "https://t.me/solnitegame"
+    },
+    "data": {
+      "twitter": "https://x.com/SolniteGame",
+      "website": "https://www.solnite.com",
+      "telegram": "https://t.me/solnitegame"
+    }
+  }
